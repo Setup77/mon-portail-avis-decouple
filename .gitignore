@@ -1,0 +1,12 @@
+# Dépendances Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite-temp/
+
+# Fichiers système et logs
+.DS_Store
+*.log
+npm-debug.log*
+
+# Fichiers de configuration locale (Optionnel)
+.env.local
